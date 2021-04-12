@@ -1,0 +1,4 @@
+ru/cft/focusstart/task1/MultiplicationTablePrinter.java
+ ru.cft.focusstart.task1.MultiplicationTablePrinter
+ru/cft/focusstart/task1/Main.java
+ ru.cft.focusstart.task1.Main

@@ -1,0 +1,25 @@
+ru/cft/focusstart/task2/Main.java
+ ru.cft.focusstart.task2.Main
+ru/cft/focusstart/task2/ModelFigureTypeWithParameters.java
+ ru.cft.focusstart.task2.ModelFigureTypeWithParameters
+ru/cft/focusstart/task2/AbstractFigure.java
+ ru.cft.focusstart.task2.AbstractFigure
+ru/cft/focusstart/task2/DataOutputFormat.java
+ ru.cft.focusstart.task2.DataOutputFormat
+ru/cft/focusstart/task2/FiguresType.java
+ ru.cft.focusstart.task2.FiguresType
+ ru.cft.focusstart.task2.FiguresType$1
+ru/cft/focusstart/task2/Triangle.java
+ ru.cft.focusstart.task2.Triangle
+ru/cft/focusstart/task2/Rectangle.java
+ ru.cft.focusstart.task2.Rectangle
+ru/cft/focusstart/task2/Figures.java
+ ru.cft.focusstart.task2.Figures
+ru/cft/focusstart/task2/ReaderFromFile.java
+ ru.cft.focusstart.task2.ReaderFromFile
+ru/cft/focusstart/task2/ParserCommandLineArguments.java
+ ru.cft.focusstart.task2.ParserCommandLineArguments
+ru/cft/focusstart/task2/Circle.java
+ ru.cft.focusstart.task2.Circle
+ru/cft/focusstart/task2/FiguresFactory.java
+ ru.cft.focusstart.task2.FiguresFactory

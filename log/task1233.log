@@ -1,0 +1,263 @@
+08.04.2021 23:57:55.726 [main] INFO  r.c.f.task2.Main - ?????????????????? ????????????????????
+08.04.2021 23:57:55.736 [main] INFO  r.c.f.task2.Main - ?????????????? ?????????????????? ???????????? ReaderFromFile ?????? ???????????????????? ?? ??????????
+08.04.2021 23:57:55.742 [main] ERROR r.c.f.task2.Main - 5.txt (?? ??????? ????? ????????? ????)
+java.io.FileNotFoundException: 5.txt (?? ??????? ????? ????????? ????)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+08.04.2021 23:57:55.742 [main] INFO  r.c.f.task2.Main - ?????????????????? ??????????????????????
+09.04.2021 00:09:16.767 [main] INFO  r.c.f.task2.Main - ?????????????????? ????????????????????
+09.04.2021 00:09:16.776 [main] INFO  r.c.f.task2.Main - ?????????????? ?????????????????? ???????????? ReaderFromFile ?????? ???????????????????? ?? ??????????
+09.04.2021 00:09:16.781 [main] ERROR r.c.f.task2.Main - 5.txt (?? ??????? ????? ????????? ????)
+java.io.FileNotFoundException: 5.txt (?? ??????? ????? ????????? ????)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:09:16.782 [main] INFO  r.c.f.task2.Main - ?????????????????? ??????????????????????
+09.04.2021 00:09:57.073 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:09:57.083 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:09:57.092 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:09:57.093 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:26:51.919 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:26:51.927 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:26:51.934 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:26:51.935 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:27:36.699 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:27:36.714 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:27:36.723 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:27:36.724 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:28:02.969 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:28:02.979 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:28:02.986 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:28:02.987 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:28:44.844 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:28:44.853 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:28:44.860 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:28:44.861 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:30:38.887 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:30:38.898 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:30:38.905 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:30:38.906 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:31:48.688 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:31:48.700 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:31:48.710 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:31:48.712 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:32:28.981 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:32:28.992 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:32:28.999 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:32:29.000 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:32:55.699 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:32:55.707 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:32:55.713 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:32:55.714 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:33:35.040 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:33:35.048 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:33:35.056 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:33:35.057 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:34:02.871 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:34:02.879 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:34:02.885 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:34:02.886 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:34:46.307 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:34:46.319 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:34:46.328 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:34:46.330 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:35:07.522 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:35:07.532 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:35:07.539 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:35:07.540 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:35:37.198 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:35:37.206 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:35:37.213 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:35:37.214 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:35:48.797 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:35:48.807 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:35:48.812 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:35:48.814 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:36:19.074 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:36:19.082 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:36:19.088 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:36:19.089 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:36:56.540 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:36:56.548 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:36:56.554 [main] ERROR r.c.f.task2.Main - 5.txt (Не удается найти указанный файл)
+java.io.FileNotFoundException: 5.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at ru.cft.focusstart.task2.ReaderFromFile.readLinesFromFile(ReaderFromFile.java:28)
+	at ru.cft.focusstart.task2.ReaderFromFile.getFigureTypeWithParameters(ReaderFromFile.java:16)
+	at ru.cft.focusstart.task2.Main.main(Main.java:17)
+09.04.2021 00:36:56.555 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:45:25.887 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:45:25.897 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:45:25.902 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ModelFigureTypeWithParameters РґР»СЏ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ С‚РёРїР° Рё РїР°СЂР°РјРµС‚СЂРѕРІ С„РёРіСѓСЂС‹
+09.04.2021 00:45:25.907 [main] INFO  r.c.f.task2.Main - 
+09.04.2021 00:45:25.987 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 00:46:06.850 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 00:46:06.859 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 00:46:06.863 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ModelFigureTypeWithParameters РґР»СЏ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ С‚РёРїР° Рё РїР°СЂР°РјРµС‚СЂРѕРІ С„РёРіСѓСЂС‹
+09.04.2021 00:46:06.867 [main] INFO  r.c.f.task2.Main - 
+09.04.2021 00:46:06.875 [main] ERROR r.c.f.task2.Main - РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РЅР°Р±РѕСЂ РїР°СЂР°РјРµС‚СЂРѕРІ
+java.lang.IllegalArgumentException: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РЅР°Р±РѕСЂ РїР°СЂР°РјРµС‚СЂРѕРІ
+	at ru.cft.focusstart.task2.Rectangle.<init>(Rectangle.java:20)
+	at ru.cft.focusstart.task2.FiguresFactory.createFigures(FiguresFactory.java:22)
+	at ru.cft.focusstart.task2.Main.main(Main.java:22)
+09.04.2021 00:46:06.876 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+09.04.2021 23:43:38.700 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+09.04.2021 23:43:38.728 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+09.04.2021 23:43:38.755 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ModelFigureTypeWithParameters РґР»СЏ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ С‚РёРїР° Рё РїР°СЂР°РјРµС‚СЂРѕРІ С„РёРіСѓСЂС‹
+09.04.2021 23:43:38.784 [main] INFO  r.c.f.task2.Main - 
+09.04.2021 23:43:38.841 [main] ERROR r.c.f.task2.Main - РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РЅР°Р±РѕСЂ РїР°СЂР°РјРµС‚СЂРѕРІ
+java.lang.IllegalArgumentException: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РЅР°Р±РѕСЂ РїР°СЂР°РјРµС‚СЂРѕРІ
+	at ru.cft.focusstart.task2.Rectangle.<init>(Rectangle.java:20)
+	at ru.cft.focusstart.task2.FiguresFactory.createFigures(FiguresFactory.java:22)
+	at ru.cft.focusstart.task2.Main.main(Main.java:22)
+09.04.2021 23:43:38.842 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+10.04.2021 00:36:19.549 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+10.04.2021 00:36:19.591 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+10.04.2021 00:36:19.619 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ModelFigureTypeWithParameters РґР»СЏ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ С‚РёРїР° Рё РїР°СЂР°РјРµС‚СЂРѕРІ С„РёРіСѓСЂС‹
+10.04.2021 00:36:19.669 [main] INFO  r.c.f.task2.Main - 
+10.04.2021 00:36:19.738 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
+10.04.2021 00:41:08.418 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° СЃС‚Р°СЂС‚РѕРІР°Р»Р°
+10.04.2021 00:41:08.423 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ReaderFromFile РґР»СЏ СЃС‡РёС‚С‹РІР°РЅРёСЏ СЃ С„Р°Р№Р»Р°
+10.04.2021 00:41:08.425 [main] INFO  r.c.f.task2.Main - РЎРѕР·РґР°Р»Рё СЌРєР·РµРјРїР»СЏСЂ РєР»Р°СЃСЃР° ModelFigureTypeWithParameters РґР»СЏ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ С‚РёРїР° Рё РїР°СЂР°РјРµС‚СЂРѕРІ С„РёРіСѓСЂС‹
+10.04.2021 00:41:08.428 [main] INFO  r.c.f.task2.Main - 
+10.04.2021 00:41:08.439 [main] INFO  r.c.f.task2.Main - РџСЂРѕРіСЂР°РјРјР° Р·Р°РІРµСЂС€РёР»Р°СЃСЊ
